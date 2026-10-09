@@ -50,6 +50,7 @@
 
 .nav-search {
     display: flex;
+    justify-content: space-evenly;
     background-color: pink;
     width: 620px;
     height: 40px;
