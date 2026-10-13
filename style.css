@@ -144,5 +144,15 @@ span {
     background-image: url(hero_image.jpg);
     background-size: cover;
     height: 600px;
-    width: ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.85rem;
+    bottom: ;
+}
+
+
+.hero-msg a {
+    color: #007185;
+
 }
